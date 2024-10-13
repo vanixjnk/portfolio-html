@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Portfolio</title>
+    <link href="assets/css/vani.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <img alt="Vani's Avatar" height="100" src="assets/img/avatar.png" width="100" />
+            <h1>
+                Vanixjnk
+            </h1>
+            <p>
+                MERN Stack Developer<br /> Outsource, DevOps
+            </p>
+            <div class="details">
+                <h3>
+                    Details
+                </h3>
+                <p>
+                    Cam Ranh city - Khanh Hoa
+                </p>
+                <p>
+                    Tel +84 (0) 935 974 907
+                    <br /> vanixjnk@gmail.com
+                </p>
+            </div>
+            <div class="languages">
+                <h3>
+                    Languages
+                </h3>
+                <p>
+                    English <br /> Vietnamese
+                </p>
+            </div>
+            <div class="hobbies">
+                <h3>
+                    Hobbies
+                </h3>
+                <p>
+                    Coding with Framework UI
+                    <br /> Playing FPS Game
+                </p>
+            </div>
+        </div>
+        <div class="content">
+            <h2>Profile</h2>
+            <p>
+                Currently working as a Marketing Manager at Netflix with a mission of building and executing marketing activities to grow the subscriber base in the US. Previously worked as an Analyst at Spotify, with primary focus on analyzing and identifying areas
+                of churn for business operations.
+            </p>
+            <p>
+                Passionate about growth marketing &amp; startups!
+            </p>
+            <h2>Experience</h2>
+            <h3>
+                Marketing Manager - Netflix, San Francisco, USA
+            </h3>
+            <p>
+                Feb 2017 - currently employed
+            </p>
+            <ul>
+                <li>
+                    Set up, managed &amp; tracked a marketing plan budget of $250k across all digital and offline channels that generated an ROI of +370%.
+                </li>
+                <li>
+                    Accelerated sales growth rate 30% by launching, A/B testing and optimizing paid social and email marketing campaigns.
+                </li>
+                <li>
+                    Develop and present reporting presentations, showcasing results and recommendations based on past performance and strategy.
+                </li>
+                <li>
+                    Heavily involved in webinars, hackathons, keynotes, customer support, launching new products and in developing projects with C-Level executives.
+                </li>
+            </ul>
+            <h3>
+                Analyst - Spotify, Stockholm, Sweden
+            </h3>
+            <p>
+                Sep 2014 - Feb 2017
+            </p>
+            <ul>
+                <li>
+                    Analyzed, highlighted and reported potential areas of business improvements related to financial and key operational processes to company management.
+                </li>
+                <li>
+                    Successfully delivered timely financial statements, controls testing and assurance engagements for more than 15 projects in one year.
+                </li>
+                <li>
+                    Managing large and complex data sets from various platforms and discovering ways to automate and/or optimize current processes.
+                </li>
+                <li>
+                    Piloted and executed a churn strategy, which saw a decrease in churn of 15% in the UK market.
+                </li>
+            </ul>
+            <h2>Education</h2>
+            <h3>
+                MSc Strategic Marketing - Liberty School of Management
+            </h3>
+            <p>
+                Sep 2010 - Jul 2014
+            </p>
+            <p>
+                Graduated with distinction
+            </p>
+            <h3>
+                BSc Business &amp; Management - EW Business &amp; Economics School
+            </h3>
+            <p>
+                Sep 2008 - Jul 2010
+            </p>
+            <h2>Certificates</h2>
+            <p>
+                Inbound Marketing Certificate
+                <br /> Hubspot Academy
+            </p>
+            <p>
+                Digital Analytics Fundamentals
+                <br /> Google Analytics Academy
+            </p>
+            <h2>Most proud of</h2>
+            <p>
+                Awarded
+                <br /> the most entrepreneurial student in MSc Strategic Business Marketing
+            </p>
+            <p>
+                Building
+                <br /> my personal marketing blog marketingaficionado.com to 25k visitors per month
+            </p>
+        </div>
+    </div>
+</body>
+
+</html>
